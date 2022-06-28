@@ -32,6 +32,10 @@ Também é utilizado para substituir variáveis globais, criando um ponto de ace
 - Requer tratamento especial em caso de concorrência
 - Pode mascarar um design ruim
 
+## Video do Projeto:
+https://drive.google.com/file/d/1bPHjGt5CP64tae9wbdc-GK9IkkPDFQT4/view?usp=sharing 
+
+---
 
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
